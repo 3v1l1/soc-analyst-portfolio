@@ -62,3 +62,6 @@ understanding authentication and system logs, and basic SOC analyst thinking.
 - Continue Google Cybersecurity Professional Certificate
 - Practice hands-on SOC labs
 - Learn SIEM concepts and incident response workflows
+
+Completed Google Course 2: Play It Safe – Manage Security Risks, focusing on risk management, security controls, and policies.
+
