@@ -11,6 +11,8 @@ cybersecurity fundamentals, threat analysis, and log analysis.
 I am an entry-level IT professional transitioning into cybersecurity.
 I have completed the Google Foundations of Cybersecurity course and am actively
 building SOC analyst skills through structured learning and hands-on projects.
+I have completed Google Cybersecurity Courses 1–4, covering risk management,
+network security, Linux fundamentals, and basic SQL for security analysis.
 
 ---
 
@@ -48,12 +50,16 @@ understanding authentication and system logs, and basic SOC analyst thinking.
 
 ## Skills Demonstrated
 
-- Cybersecurity fundamentals
-- Threat and risk awareness
-- Phishing analysis
-- Log analysis
-- Analyst documentation and reporting
-- SOC analyst mindset
+- Cybersecurity fundamentals (CIA triad, risk, security domains)
+- Threat and vulnerability awareness
+- Phishing analysis and incident documentation
+- Log analysis and suspicious pattern detection
+- Network security fundamentals
+- Understanding of security controls and risk management
+- Linux command-line basics for log review (grep, cat, less)
+- Basic SQL queries for security data analysis
+- SOC analyst mindset and structured reporting
+
 
 ---
 
