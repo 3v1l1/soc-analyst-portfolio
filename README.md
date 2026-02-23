@@ -13,6 +13,7 @@ I have completed the Google Foundations of Cybersecurity course and am actively
 building SOC analyst skills through structured learning and hands-on projects.
 I have completed Google Cybersecurity Courses 1–4, covering risk management,
 network security, Linux fundamentals, and basic SQL for security analysis.
+Completed Google Cybersecurity Courses 1–5, including risk assessment, threat modeling, and vulnerability analysis.
 
 ---
 
@@ -42,21 +43,31 @@ and document analyst investigation and response steps.
 **Repository:**  
 https://github.com/3v1l1/log-analysis-basics
 
+
 **What this shows:**  
 Foundational log analysis skills, including identifying suspicious patterns,
 understanding authentication and system logs, and basic SOC analyst thinking.
 
 ---
 
+### 🔹 Mini Risk Assessment Project  
+**Repository:**  
+https://github.com/3v1l1/risk-assessment-mini-project  
+
+**What this shows:**  
+Ability to identify assets, evaluate threats and vulnerabilities, assess risk levels, and recommend security controls.
+
+---
+
 ## Skills Demonstrated
 
 - Cybersecurity fundamentals (CIA triad, risk, security domains)
-- Threat and vulnerability awareness
+- Threat and vulnerability identification
+- Asset classification and risk evaluation
 - Phishing analysis and incident documentation
 - Log analysis and suspicious pattern detection
 - Network security fundamentals
-- Understanding of security controls and risk management
-- Linux command-line basics for log review (grep, cat, less)
+- Linux command-line basics for log review
 - Basic SQL queries for security data analysis
 - SOC analyst mindset and structured reporting
 
@@ -69,5 +80,5 @@ understanding authentication and system logs, and basic SOC analyst thinking.
 - Practice hands-on SOC labs
 - Learn SIEM concepts and incident response workflows
 
-Completed Google Course 2: Play It Safe – Manage Security Risks, focusing on risk management, security controls, and policies.
+Completed Google Course 6: Sound the Alarm: Detection and Response
 
