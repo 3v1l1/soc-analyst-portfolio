@@ -13,7 +13,7 @@ I have completed the Google Foundations of Cybersecurity course and am actively
 building SOC analyst skills through structured learning and hands-on projects.
 I have completed Google Cybersecurity Courses 1–4, covering risk management,
 network security, Linux fundamentals, and basic SQL for security analysis.
-Completed Google Cybersecurity Courses 1–5, including risk assessment, threat modeling, and vulnerability analysis.
+Completed Google Cybersecurity Courses 1–6, including risk assessment, threat modeling, and vulnerability analysis.
 
 ---
 
@@ -59,6 +59,16 @@ Ability to identify assets, evaluate threats and vulnerabilities, assess risk le
 
 ---
 
+### 🔹 SOC Incident Response Simulation  
+**Repository:**  
+https://github.com/3v1l1/soc-incident-response-simulation  
+
+**What this shows:**  
+Ability to analyze alerts, perform incident triage, assess severity, and
+document SOC investigation procedures.
+
+---
+
 ## Skills Demonstrated
 
 - Cybersecurity fundamentals (CIA triad, risk, security domains)
@@ -74,15 +84,16 @@ Ability to identify assets, evaluate threats and vulnerabilities, assess risk le
 
 ---
 
-### 🔹 SOC Incident Response Simulation  
-**Repository:**  
-https://github.com/3v1l1/soc-incident-response-simulation  
+## Tools & Technologies
 
-**What this shows:**  
-Ability to analyze alerts, perform incident triage, assess severity, and
-document SOC investigation procedures.
+- Linux
+- SQL
+- GitHub
+- Security Monitoring
+- Log Analysis
+- Risk Assessment
 
-## Next Steps
+---
 
 ## Next Steps
 
