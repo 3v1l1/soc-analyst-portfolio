@@ -74,10 +74,22 @@ Ability to identify assets, evaluate threats and vulnerabilities, assess risk le
 
 ---
 
+### 🔹 SOC Incident Response Simulation  
+**Repository:**  
+https://github.com/3v1l1/soc-incident-response-simulation  
+
+**What this shows:**  
+Ability to analyze alerts, perform incident triage, assess severity, and
+document SOC investigation procedures.
+
 ## Next Steps
 
-- Continue Google Cybersecurity Professional Certificate
-- Practice hands-on SOC labs
+## Next Steps
+
+- Continue developing SOC analyst skills through hands-on labs and real-world simulations
+- Practice security monitoring and incident investigation scenarios
+- Strengthen SQL and Linux skills for log analysis
+- Pursue entry-level cybersecurity or SOC analyst opportunities
 - Learn SIEM concepts and incident response workflows
 
 Completed Google Course 6: Sound the Alarm: Detection and Response
