@@ -83,6 +83,15 @@ document SOC investigation procedures.
 
 ---
 
+### 🔹 Security Log Parser (Python)  
+**Repository:**  
+https://github.com/3v1l1/security-log-parser-python  
+
+**What this shows:**  
+Ability to automate log analysis using Python to detect repeated failed login attempts and identify suspicious activity.
+
+---
+
 ## Skills Demonstrated
 
 - Cybersecurity fundamentals (CIA triad, risk, security domains)
