@@ -131,11 +131,7 @@ Ability to automate log analysis using Python to detect repeated failed login at
 
 ## Next Steps
 
-- Continue developing SOC analyst skills through hands-on labs and real-world simulations
-- Practice security monitoring and incident investigation scenarios
-- Strengthen SQL and Linux skills for log analysis
-- Pursue entry-level cybersecurity or SOC analyst opportunities
-- Learn SIEM concepts and incident response workflows
-
-Completed Google Course 6: Sound the Alarm: Detection and Response
-
+- Continue strengthening SOC analyst skills through hands-on labs and real-world simulations  
+- Practice alert investigation and incident response scenarios  
+- Improve SQL and Python skills for security data analysis and automation  
+- Actively seeking entry-level SOC Analyst / Cybersecurity Analyst opportunities  
