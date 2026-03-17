@@ -111,6 +111,7 @@ Ability to automate log analysis using Python to detect repeated failed login at
 
 - Linux
 - SQL
+- Python
 - GitHub
 - Security Monitoring
 - Log Analysis
