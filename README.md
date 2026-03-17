@@ -16,6 +16,20 @@ network security, Linux fundamentals, and basic SQL for security analysis.
 Completed Google Cybersecurity Courses 1–6, including risk assessment, threat modeling, and vulnerability analysis.
 
 ---
+## Learning Path
+
+This portfolio reflects my structured progression in cybersecurity:
+
+- Cybersecurity Fundamentals → understanding core concepts and security principles  
+- Threat Analysis → identifying phishing and social engineering attacks  
+- Log Analysis → detecting suspicious activity in system logs  
+- Risk Assessment → evaluating assets, threats, and vulnerabilities  
+- Detection & Response → investigating alerts and incident handling  
+- Automation → using Python to automate security tasks  
+
+Each project demonstrates a practical application of these skills.
+
+---
 
 ## Projects
 
@@ -92,6 +106,16 @@ document SOC investigation procedures.
 - Security Monitoring
 - Log Analysis
 - Risk Assessment
+
+---
+
+## Key Takeaways
+
+- Developed a structured approach to analyzing security incidents  
+- Learned how to identify and investigate suspicious activity in logs  
+- Understood how to assess risks and recommend security controls  
+- Gained experience in documenting security findings clearly  
+- Applied Python to automate repetitive cybersecurity tasks
 
 ---
 
