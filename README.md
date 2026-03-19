@@ -27,7 +27,7 @@ Actively developing skills in security monitoring and seeking entry-level SOC An
 * **Cisco Junior Cybersecurity Analyst Career Path** — Issued July 29, 2025.
     * **Status:** Verified Student Credential (Cisco Networking Academy).
     * **Key Skills:** Vulnerability & risk assessment, network/system threat mitigation, and incident management.
-    * [View Certificate]([JuniorCybersecurityAnalystUpdate20250802-31-52pxxj.pdf])(https://github.com/user-attachments/files/26109348/JuniorCybersecurityAnalystUpdate20250802-31-52pxxj.pdf)
+    * [View Certificate]([JuniorCybersecurityAnalystUpdate20250802-31-52pxxj.pdf]https://github.com/user-attachments/files/26109348/JuniorCybersecurityAnalystUpdate20250802-31-52pxxj.pdf)
 
 ---
 ## Learning Path
