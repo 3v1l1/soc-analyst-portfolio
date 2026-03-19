@@ -1,4 +1,6 @@
 # SOC Analyst Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanchit-bhambri-481433176)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanchitbhambri@proton.me)
 
 This portfolio showcases hands-on cybersecurity projects aligned with SOC analyst roles,
 focusing on detection, analysis, and response.
