@@ -1,4 +1,5 @@
 # SOC Analyst Portfolio
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanchit-bhambri-481433176)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanchitbhambri@proton.me)
 
@@ -16,6 +17,13 @@ Aspiring SOC Analyst with hands-on experience in cybersecurity fundamentals, log
 Completed the Google Cybersecurity Professional Certificate and built practical projects including phishing analysis, log investigation, risk assessment, incident response simulation, and Python-based automation.
 
 Actively developing skills in security monitoring and seeking entry-level SOC Analyst or Cybersecurity Analyst opportunities.
+
+---
+
+## 📜 Certifications
+
+* **Google Cybersecurity Professional Certificate** (Coursera) — [Verify Credential](https://coursera.org/share/a35d476307b9bbec792645c23d1c493f)
+  * *Skills:* Threat Detection, Log Analysis (SQL/Python), Incident Response, IDS/SIEM Tools.
 
 ---
 ## Learning Path
