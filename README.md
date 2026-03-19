@@ -24,10 +24,10 @@ Actively developing skills in security monitoring and seeking entry-level SOC An
 
 * **Google Cybersecurity Professional Certificate** (Coursera) — [Verify Credential](https://coursera.org/share/a35d476307b9bbec792645c23d1c493f)
   * *Skills:* Threat Detection, Log Analysis (SQL/Python), Incident Response, IDS/SIEM Tools.
-* [cite_start]**Cisco Junior Cybersecurity Analyst Career Path** — Issued July 29, 2025 [cite: 17]
-    * [cite_start]**Status:** Verified Student Credential (Cisco Networking Academy) [cite: 5, 12]
-    * [cite_start]**Key Skills:** Vulnerability & risk assessment, network/system threat mitigation, and incident management[cite: 8, 9, 10, 11].
-    * [Verify Certificate](https://www.credly.com/badges/991f9aea-a297-4781-9188-973b38711a36/public_url)
+* **Cisco Junior Cybersecurity Analyst Career Path** — Issued July 29, 2025.
+    * **Status:** Verified Student Credential (Cisco Networking Academy).
+    * **Key Skills:** Vulnerability & risk assessment, network/system threat mitigation, and incident management.
+    * [Verify Certificate][JuniorCybersecurityAnalystUpdate20250802-31-52pxxj.pdf](https://github.com/user-attachments/files/26109192/JuniorCybersecurityAnalystUpdate20250802-31-52pxxj.pdf)
 
 ---
 ## Learning Path
