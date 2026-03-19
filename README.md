@@ -1,19 +1,19 @@
 # SOC Analyst Portfolio
 
-This repository serves as a central index of my beginner-level cybersecurity
-and SOC analyst projects. It is designed to showcase my understanding of
-cybersecurity fundamentals, threat analysis, and log analysis.
+This portfolio showcases hands-on cybersecurity projects aligned with SOC analyst roles,
+focusing on detection, analysis, and response.
+It serves as a central index of my work, demonstrating skills in threat detection,
+log analysis, incident response, and security automation.
 
 ---
 
 ## About Me
 
-I am an entry-level IT professional transitioning into cybersecurity.
-I have completed the Google Foundations of Cybersecurity course and am actively
-building SOC analyst skills through structured learning and hands-on projects.
-I have completed Google Cybersecurity Courses 1–4, covering risk management,
-network security, Linux fundamentals, and basic SQL for security analysis.
-Completed Google Cybersecurity Courses 1–6, including risk assessment, threat modeling, and vulnerability analysis.
+Aspiring SOC Analyst with hands-on experience in cybersecurity fundamentals, log analysis, threat detection, and incident response.
+
+Completed the Google Cybersecurity Professional Certificate and built practical projects including phishing analysis, log investigation, risk assessment, incident response simulation, and Python-based automation.
+
+Actively developing skills in security monitoring and seeking entry-level SOC Analyst or Cybersecurity Analyst opportunities.
 
 ---
 ## Learning Path
@@ -33,7 +33,7 @@ Each project demonstrates a practical application of these skills.
 
 ## Projects
 
-### 🔹 Cybersecurity Foundations
+### 🔹Cybersecurity Foundations
 **Repository:**  
 https://github.com/3v1l1/cybersecurity-foundations
 
@@ -43,7 +43,7 @@ actors, security risks, and the role of a cybersecurity analyst.
 
 ---
 
-### 🔹 Phishing Analysis Report
+### 🔹Phishing Analysis Report
 **Repository:**  
 https://github.com/3v1l1/phishing-analysis-report
 
@@ -53,7 +53,7 @@ and document analyst investigation and response steps.
 
 ---
 
-### 🔹 Log Analysis Basics
+### 🔹Log Analysis Basics
 **Repository:**  
 https://github.com/3v1l1/log-analysis-basics
 
@@ -64,7 +64,7 @@ understanding authentication and system logs, and basic SOC analyst thinking.
 
 ---
 
-### 🔹 Mini Risk Assessment Project  
+### 🔹Mini Risk Assessment Project  
 **Repository:**  
 https://github.com/3v1l1/risk-assessment-mini-project  
 
@@ -73,7 +73,7 @@ Ability to identify assets, evaluate threats and vulnerabilities, assess risk le
 
 ---
 
-### 🔹 SOC Incident Response Simulation  
+### 🔹SOC Incident Response Simulation  
 **Repository:**  
 https://github.com/3v1l1/soc-incident-response-simulation  
 
@@ -83,7 +83,7 @@ document SOC investigation procedures.
 
 ---
 
-### 🔹 Security Log Parser (Python)  
+### 🔹Security Log Parser (Python)  
 **Repository:**  
 https://github.com/3v1l1/security-log-parser-python  
 
@@ -97,11 +97,14 @@ Ability to automate log analysis using Python to detect repeated failed login at
 - Cybersecurity fundamentals (CIA triad, risk, security domains)
 - Threat and vulnerability identification
 - Asset classification and risk evaluation
-- Phishing analysis and incident documentation
-- Log analysis and suspicious pattern detection
+- Phishing analysis and social engineering detection
+- Log analysis and suspicious pattern identification
+- Security monitoring and alert investigation
+- Incident response triage and documentation
 - Network security fundamentals
 - Linux command-line basics for log review
-- Basic SQL queries for security data analysis
+- SQL queries for security data analysis
+- Python for security automation and log parsing
 - SOC analyst mindset and structured reporting
 
 
