@@ -31,64 +31,17 @@ Each project demonstrates a practical application of these skills.
 
 ---
 
-## Projects
+## 📂 SOC Project Portfolio Index
 
-### 🔹Cybersecurity Foundations
-**Repository:**  
-https://github.com/3v1l1/cybersecurity-foundations
+This table provides a high-level overview of my technical projects and the specific security frameworks they address.
 
-**What this shows:**  
-Understanding of core cybersecurity concepts such as the CIA triad, threat
-actors, security risks, and the role of a cybersecurity analyst.
-
----
-
-### 🔹Phishing Analysis Report
-**Repository:**  
-https://github.com/3v1l1/phishing-analysis-report
-
-**What this shows:**  
-Ability to identify phishing indicators, analyze social engineering attacks,
-and document analyst investigation and response steps.
-
----
-
-### 🔹Log Analysis Basics
-**Repository:**  
-https://github.com/3v1l1/log-analysis-basics
-
-
-**What this shows:**  
-Foundational log analysis skills, including identifying suspicious patterns,
-understanding authentication and system logs, and basic SOC analyst thinking.
-
----
-
-### 🔹Mini Risk Assessment Project  
-**Repository:**  
-https://github.com/3v1l1/risk-assessment-mini-project  
-
-**What this shows:**  
-Ability to identify assets, evaluate threats and vulnerabilities, assess risk levels, and recommend security controls.
-
----
-
-### 🔹SOC Incident Response Simulation  
-**Repository:**  
-https://github.com/3v1l1/soc-incident-response-simulation  
-
-**What this shows:**  
-Ability to analyze alerts, perform incident triage, assess severity, and
-document SOC investigation procedures.
-
----
-
-### 🔹Security Log Parser (Python)  
-**Repository:**  
-https://github.com/3v1l1/security-log-parser-python  
-
-**What this shows:**  
-Ability to automate log analysis using Python to detect repeated failed login attempts and identify suspicious activity.
+| Project | Core Skill | MITRE ATT&CK / Framework | Repository |
+| :--- | :--- | :--- | :--- |
+| 🛡️ **Security Log Parser** | **Python Automation** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Repo](https://github.com/3v1l1/security-log-parser-python) |
+| 📧 **Phishing Analysis** | **Incident Reporting** | [T1566 (Phishing)](https://attack.mitre.org/techniques/T1566/) | [View Repo](https://github.com/3v1l1/phishing-analysis-report) |
+| 🕵️ **Log Analysis Basics** | **Detection & Triage** | [T1078 (Valid Accounts)](https://attack.mitre.org/techniques/T1078/) | [View Repo](https://github.com/3v1l1/log-analysis-basics) |
+| 🚨 **Incident Simulation** | **Response Lifecycle** | [NIST 800-61 r2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf) | [View Repo](https://github.com/3v1l1/soc-incident-response-simulation) |
+| 📉 **Mini Risk Assessment** | **NIST Framework** | Asset Management / Control | [View Repo](https://github.com/3v1l1/risk-assessment-mini-project) |
 
 ---
 
