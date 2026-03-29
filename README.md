@@ -17,6 +17,7 @@ Aspiring SOC Analyst with hands-on experience in cybersecurity fundamentals, log
 Completed the Google Cybersecurity Professional Certificate and built practical projects including phishing analysis, log investigation, risk assessment, incident response simulation, and Python-based automation.
 
 Actively developing skills in security monitoring and seeking entry-level SOC Analyst or Cybersecurity Analyst opportunities.
+Hands-on experience with SIEM tools including Wazuh and Splunk for log analysis and threat detection.
 
 ---
 
