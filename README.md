@@ -73,6 +73,7 @@ This table provides a high-level overview of my technical projects and the speci
 - Linux
 - SQL
 - Python
+- Splunk & Wazuh (SIEM)
 - GitHub
 - Security Monitoring
 - Log Analysis
