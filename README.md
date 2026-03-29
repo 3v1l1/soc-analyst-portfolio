@@ -56,6 +56,7 @@ This table provides a high-level overview of my technical projects and the speci
 | 🕵️ **Log Analysis Basics** | **Detection & Triage** | [T1078 (Valid Accounts)](https://attack.mitre.org/techniques/T1078/) | [View Repo](https://github.com/3v1l1/log-analysis-basics) |
 | 🚨 **Incident Simulation** | **Response Lifecycle** | [NIST 800-61 r2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf) | [View Repo](https://github.com/3v1l1/soc-incident-response-simulation) |
 | 📉 **Mini Risk Assessment** | **NIST Framework** | Asset Management / Control | [View Repo](https://github.com/3v1l1/risk-assessment-mini-project) |
+| **[SIEM Brute-Force Detection](https://github.com/3v1l1/siem-bruteforce-detection)** | Splunk, Linux Logs | Detects unauthorized admin access attempts using custom SPL and Regex extraction. |
 
 ---
 
