@@ -20,16 +20,6 @@ Actively developing skills in security monitoring and seeking entry-level SOC An
 
 ---
 
-## 📜 Certifications
-
-* **Google Cybersecurity Professional Certificate** (Coursera) — [Verify Credential](https://coursera.org/share/a35d476307b9bbec792645c23d1c493f)
-  * *Skills:* Threat Detection, Log Analysis (SQL/Python), Incident Response, IDS/SIEM Tools.
-* **Cisco Junior Cybersecurity Analyst Career Path** — Issued July 29, 2025.
-    * **Status:** Verified Student Credential (Cisco Networking Academy).
-    * **Key Skills:** Vulnerability & risk assessment, network/system threat mitigation, and incident management.
-    * [View Certificate](https://www.credly.com/badges/991f9aea-a297-4781-9188-973b38711a36/public_url)
-
----
 ## Learning Path
 
 This portfolio reflects my structured progression in cybersecurity:
@@ -100,6 +90,15 @@ This table provides a high-level overview of my technical projects and the speci
 
 ---
 
+## Skills Demonstrated Across Projects
+
+- SIEM  Splunk
+- Log Analysis & Threat Detection
+- Incident Response & Investigation
+- Python Automation
+- Risk Assessment
+  
+---
 ## Next Steps
 
 - Continue strengthening SOC analyst skills through hands-on labs and real-world simulations  
