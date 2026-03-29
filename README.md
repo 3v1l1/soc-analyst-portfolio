@@ -102,7 +102,7 @@ This table provides a high-level overview of my technical projects and the speci
 ---
 ## Next Steps
 
-- Continue strengthening SOC analyst skills through hands-on labs and real-world simulations  
+- Continue strengthening SIEM skills using Splunk and Wazuh  
 - Practice alert investigation and incident response scenarios  
-- Improve SQL and Python skills for security data analysis and automation  
+- Improve Python and SQL for security automation and data analysis  
 - Actively seeking entry-level SOC Analyst / Cybersecurity Analyst opportunities  
