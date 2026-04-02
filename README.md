@@ -3,10 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-bhambri-481433176)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanchitbhambri@proton.me)
 
-This portfolio showcases hands-on cybersecurity projects aligned with SOC analyst roles,
-focusing on detection, analysis, and response.
-It serves as a central index of my work, demonstrating skills in threat detection,
-log analysis, incident response, and security automation.
+🚀 SOC-focused cybersecurity portfolio demonstrating real-world threat detection, log analysis, and incident response through hands-on labs.
 
 ---
 
