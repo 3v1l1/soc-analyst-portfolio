@@ -48,6 +48,7 @@ This table provides a high-level overview of my technical projects and the speci
 | 🚨 **Incident Simulation** | **Response Lifecycle** | [NIST 800-61 r2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf) | [View Repo](https://github.com/3v1l1/soc-incident-response-simulation) |
 | 📉 **Mini Risk Assessment** | **NIST Framework** | Asset Management / Control | [View Repo](https://github.com/3v1l1/risk-assessment-mini-project) |
 | 🔍 **SIEM Brute-Force Detection** | **Splunk & Log Analysis** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Repo](https://github.com/3v1l1/siem-bruteforce-detection)
+| 🔍 **SSH Brute-Force Detection** | **Splunk Cloud & Log Engineering** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Project](https://github.com/3v1l1/SSH-Brute-Force-Detection-Splunk) |
 
 ---
 
