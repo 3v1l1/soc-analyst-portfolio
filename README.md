@@ -50,7 +50,7 @@ Focused on developing real-world SOC skills using tools like Splunk and Wazuh.
 
 ---
 
-## Learning Path
+## 🧠 Learning Journey
 
 This portfolio reflects my structured progression in cybersecurity:
 
