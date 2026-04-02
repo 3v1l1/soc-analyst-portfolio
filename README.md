@@ -64,7 +64,23 @@ Each project demonstrates a practical application of these skills.
 
 ---
 
-## 📂 SOC Project Portfolio Index
+## 🔥 Highlight Project
+
+### 🔐 SSH Brute Force Detection (Splunk)
+
+- Simulated brute force attack (Kali → Ubuntu)
+- Ingested logs using Splunk HEC
+- Built SPL detection logic
+- Created dashboard + alert system
+
+👉 MITRE ATT&CK: T1110 – Brute Force
+
+🔗 [View Project](https://github.com/3v1l1/SSH-Brute-Force-Detection-Splunk)
+
+---
+
+
+## 📂 SOC Project Portfolio (Hands-on Labs)
 
 This table provides a high-level overview of my technical projects and the specific security frameworks they address.
 
@@ -97,15 +113,6 @@ This table provides a high-level overview of my technical projects and the speci
 - Gained experience in documenting security findings clearly  
 - Applied Python to automate repetitive cybersecurity tasks
 
----
-
-## Skills Demonstrated Across Projects
-
-- SIEM  Splunk
-- Log Analysis & Threat Detection
-- Incident Response & Investigation
-- Python Automation
-- Risk Assessment
   
 ---
 ## Next Steps
@@ -113,4 +120,7 @@ This table provides a high-level overview of my technical projects and the speci
 - Continue strengthening SIEM skills using Splunk and Wazuh  
 - Practice alert investigation and incident response scenarios  
 - Improve Python and SQL for security automation and data analysis  
-- Actively seeking entry-level SOC Analyst / Cybersecurity Analyst opportunities  
+- Actively seeking entry-level SOC Analyst / Cybersecurity Analyst opportunities
+
+ 
+ 💼 Open to SOC Analyst / Cybersecurity Analyst roles
