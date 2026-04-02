@@ -14,6 +14,7 @@ Aspiring SOC Analyst with hands-on experience in log analysis, threat detection,
 Completed the Google Cybersecurity Certificate and built practical projects in phishing analysis, SIEM detection, and automation.
 
 Focused on developing real-world SOC skills using tools like Splunk and Wazuh.
+
 ---
 
 ## 🎯 What I Do
