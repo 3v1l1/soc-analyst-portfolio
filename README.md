@@ -1,4 +1,4 @@
-# SOC Analyst Portfolio
+# 🛡️ SOC Analyst Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-bhambri-481433176)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanchitbhambri@proton.me)
@@ -18,6 +18,39 @@ Completed the Google Cybersecurity Professional Certificate and built practical 
 
 Actively developing skills in security monitoring and seeking entry-level SOC Analyst or Cybersecurity Analyst opportunities.
 Hands-on experience with SIEM tools including Wazuh and Splunk for log analysis and threat detection.
+
+---
+
+## 🎯 What I Do
+
+- Analyze logs to detect suspicious activity  
+- Build detection logic using Splunk SPL  
+- Simulate real-world attack scenarios  
+- Create dashboards and alerts for monitoring  
+
+---
+
+## 🛠️ Skills
+
+- SIEM: Splunk Cloud  
+- Log Analysis (Linux auth logs)  
+- Detection Engineering  
+- Incident Investigation  
+- Linux (CLI)  
+- Networking Basics
+
+---
+
+## ⚙️ Tools & Technologies
+
+- Splunk Cloud  
+- Kali Linux  
+- Ubuntu Server  
+- VirtualBox  
+- Git & GitHub
+- Security Monitoring
+- Log Analysis
+- Risk Assessment
 
 ---
 
@@ -52,34 +85,12 @@ This table provides a high-level overview of my technical projects and the speci
 
 ---
 
-## Skills Demonstrated
 
-- Cybersecurity fundamentals (CIA triad, risk, security domains)
-- Threat and vulnerability identification
-- Asset classification and risk evaluation
-- Phishing analysis and social engineering detection
-- Log analysis and suspicious pattern identification
-- Security monitoring and alert investigation
-- Incident response triage and documentation
-- Network security fundamentals
-- Linux command-line basics for log review
-- SQL queries for security data analysis
-- Python for security automation and log parsing
-- SOC analyst mindset and structured reporting
+## 🧠 Currently Learning
 
-
----
-
-## Tools & Technologies
-
-- Linux
-- SQL
-- Python
-- Splunk & Wazuh (SIEM)
-- GitHub
-- Security Monitoring
-- Log Analysis
-- Risk Assessment
+- Advanced SPL queries  
+- Threat hunting techniques  
+- Detection engineering
 
 ---
 
