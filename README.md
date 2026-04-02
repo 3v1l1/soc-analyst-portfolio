@@ -65,6 +65,18 @@ Each project demonstrates a practical application of these skills.
 
 ---
 
+## 🧭 How to Navigate This Portfolio
+
+Each project demonstrates a specific SOC skill such as detection, analysis, or incident response.
+
+Projects include:
+- Real attack simulation
+- Log analysis
+- Detection logic
+- MITRE ATT&CK mapping
+
+---
+
 ## 🔥 Highlight Project
 
 ### 🔐 SSH Brute Force Detection (Splunk)
@@ -116,12 +128,12 @@ This table provides a high-level overview of my technical projects and the speci
 
   
 ---
-## Next Steps
+## 🚀 Career Development
 
-- Continue strengthening SIEM skills using Splunk and Wazuh  
-- Practice alert investigation and incident response scenarios  
-- Improve Python and SQL for security automation and data analysis  
-- Actively seeking entry-level SOC Analyst / Cybersecurity Analyst opportunities
+- Strengthening SIEM skills (Splunk & Wazuh)  
+- Practicing real-world alert investigation  
+- Expanding detection engineering knowledge  
+- Improving Python & SQL for security automation  
 
  
  💼 Open to SOC Analyst / Cybersecurity Analyst roles
