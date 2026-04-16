@@ -91,6 +91,20 @@ Projects include:
 🔗 [View Project](https://github.com/3v1l1/SSH-Brute-Force-Detection-Splunk)
 
 ---
+## 🔥 Highlight Project
+
+### 🔐 SSH Brute Force Detection (Python)
+
+- Parsed real Linux authentication logs  
+- Correlated failed → successful login attempts  
+- Built custom detection logic (mini SIEM behavior)  
+- Generated attack timeline for investigation  
+
+👉 MITRE ATT&CK: T1110 – Brute Force  
+
+🔗 [View Project](https://github.com/3v1l1/ssh-brute-force-detection-python)
+
+---
 
 
 ## 📂 SOC Project Portfolio (Hands-on Labs)
@@ -99,13 +113,15 @@ This table provides a high-level overview of my technical projects and the speci
 
 | Project | Core Skill | MITRE ATT&CK / Framework | Repository |
 | :--- | :--- | :--- | :--- |
+| 🔍 **SSH Brute-Force Detection** | **Splunk Cloud & Log Engineering** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Project](https://github.com/3v1l1/SSH-Brute-Force-Detection-Splunk) |
+| 🔐 [SSH Brute Force Detection (Python)](https://github.com/3v1l1/ssh-brute-force-detection-python) | Built a Python-based log analysis tool to detect brute-force attacks by correlating failed and successful SSH login attempts. | Python, Regex, Linux Logs | T1110 |
+| 🔍 **SIEM Brute-Force Detection** | **Splunk & Log Analysis** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Repo](https://github.com/3v1l1/siem-bruteforce-detection)
 | 🛡️ **Security Log Parser** | **Python Automation** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Repo](https://github.com/3v1l1/security-log-parser-python) |
 | 📧 **Phishing Analysis** | **Incident Reporting** | [T1566 (Phishing)](https://attack.mitre.org/techniques/T1566/) | [View Repo](https://github.com/3v1l1/phishing-analysis-report) |
 | 🕵️ **Log Analysis Basics** | **Detection & Triage** | [T1078 (Valid Accounts)](https://attack.mitre.org/techniques/T1078/) | [View Repo](https://github.com/3v1l1/log-analysis-basics) |
 | 🚨 **Incident Simulation** | **Response Lifecycle** | [NIST 800-61 r2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf) | [View Repo](https://github.com/3v1l1/soc-incident-response-simulation) |
 | 📉 **Mini Risk Assessment** | **NIST Framework** | Asset Management / Control | [View Repo](https://github.com/3v1l1/risk-assessment-mini-project) |
-| 🔍 **SIEM Brute-Force Detection** | **Splunk & Log Analysis** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Repo](https://github.com/3v1l1/siem-bruteforce-detection)
-| 🔍 **SSH Brute-Force Detection** | **Splunk Cloud & Log Engineering** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Project](https://github.com/3v1l1/SSH-Brute-Force-Detection-Splunk) |
+
 
 ---
 
