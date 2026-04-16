@@ -77,7 +77,7 @@ Projects include:
 
 ---
 
-## 🔥 Highlight Project
+## 🔥 Highlight Projects
 
 ### 🔐 SSH Brute Force Detection (Splunk)
 
@@ -91,7 +91,6 @@ Projects include:
 🔗 [View Project](https://github.com/3v1l1/SSH-Brute-Force-Detection-Splunk)
 
 ---
-## 🔥 Highlight Project
 
 ### 🔐 SSH Brute Force Detection (Python)
 
