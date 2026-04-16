@@ -113,7 +113,7 @@ This table provides a high-level overview of my technical projects and the speci
 | Project | Core Skill | MITRE ATT&CK / Framework | Repository |
 | :--- | :--- | :--- | :--- |
 | 🔍 **SSH Brute-Force Detection** | **Splunk Cloud & Log Engineering** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Project](https://github.com/3v1l1/SSH-Brute-Force-Detection-Splunk) |
-| 🔐 [SSH Brute Force Detection (Python)](https://github.com/3v1l1/ssh-brute-force-detection-python) | Built a Python-based log analysis tool to detect brute-force attacks by correlating failed and successful SSH login attempts. | Python, Regex, Linux Logs | T1110 |
+| 🔐 [SSH Brute Force Detection (Python)] | Built a Python-based log analysis tool to detect brute-force attacks by correlating failed and successful SSH login attempts. | Python, Regex, Linux Logs | [View Project](https://github.com/3v1l1/ssh-brute-force-detection-python) |
 | 🔍 **SIEM Brute-Force Detection** | **Splunk & Log Analysis** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Repo](https://github.com/3v1l1/siem-bruteforce-detection)
 | 🛡️ **Security Log Parser** | **Python Automation** | [T1110 (Brute Force)](https://attack.mitre.org/techniques/T1110/) | [View Repo](https://github.com/3v1l1/security-log-parser-python) |
 | 📧 **Phishing Analysis** | **Incident Reporting** | [T1566 (Phishing)](https://attack.mitre.org/techniques/T1566/) | [View Repo](https://github.com/3v1l1/phishing-analysis-report) |
